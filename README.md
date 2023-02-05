@@ -1,8 +1,7 @@
 # navigation-menu-parallax-css
 HTML &amp; CSS Navigation menu with parallax effect
 
-![image](https://user-images.githubusercontent.com/118842452/216836962-19c2c7a1-829a-443d-8afe-e679d0a76650.png)
-
+<img src="https://user-images.githubusercontent.com/118842452/216840756-3922420e-ff92-4e57-9103-3d5074fa0f07.png" style="height: 300px; width: 400px" />
 <strong>Live Demo:</strong>
 https://mohamedyosef.pages.dev
 
